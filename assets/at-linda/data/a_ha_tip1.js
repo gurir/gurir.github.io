@@ -1,0 +1,1 @@
+var  data = JSON.parse('{"a_ha_tip1":{"width":1280,"height":720,"areas":false,"step":"apartment","title":"Llamella A","titles":{"area_1":"Kati 1"},"infos":{"area_1":["Sip\u00ebrfaqja: - m<sup>2<\/sup>"]},"prefix":"index.php?s=","links":{"area_1":"ref_ll_a_kati_1"},"coords_3D":[[]],"coords_2D":[]}}');

@@ -1,0 +1,36 @@
+#icons {
+  position: absolute;
+  width: 130px;
+  height: 104px;
+  top:50%;
+  margin-top:-52px;
+  left:0;
+  z-index: 3;
+  pointer-events: none;
+  overflow: hidden;
+  user-select: none;
+}
+#icons ul {
+  margin:0;
+  padding:0;
+  margin-left: -130px;
+}
+#icons li {
+  display: block;
+  background: #fff;
+  text-align: center;
+  padding:15px;
+  width: 98px;
+  margin-top:4px;
+  pointer-events: all;
+  cursor: pointer;
+  border-bottom: 1px solid var(--main-color);
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  text-align: right;
+  border: 1px solid grey;
+}
+#icons li:hover {
+  background: var(--main-color);
+  color:#fff;
+}
